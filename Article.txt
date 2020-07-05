@@ -1,0 +1,7 @@
+My first article
+first my change, continue changes
+second change.
+both change.
+change in local repository
+change in remote repository in github
+test gui
